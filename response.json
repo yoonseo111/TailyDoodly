@@ -1,0 +1,35 @@
+{
+    "title": "소연과 펭귄 친구들",
+    "pages": [
+      {
+        "index": 1,
+        "content": ["소연은 바닷가에 갔어요.", "그곳에서 귀여운 펭귄들을 만났어요.", "펭귄들은 춤을 추고 있었답니다!"],
+        "caption": ["a kid's crayon drawing about a child standing on the beach with penguins dancing around."]
+      },
+      {
+        "index": 2,
+        "content": ["소연은 펭귄들과 함께 놀기로 했어요.", "그들은 눈싸움을 시작했어요!", "펭귄들은 눈을 던지며 웃고 있었어요."],
+        "caption": ["a kid's crayon drawing about a child standing in the snow playing snowball fight with penguins."]
+      },
+      {
+        "index": 3,
+        "content": ["소연은 펭귄들에게 춤을 가르쳐 주었어요.", "펭귄들은 소연의 춤을 따라 하며 신났어요!", "모두 함께 즐거운 시간을 보냈답니다."],
+        "caption": ["a kid's crayon drawing about a child standing in a dance circle with penguins mimicking her moves."]
+      },
+      {
+        "index": 4,
+        "content": ["하늘이 어두워지자, 소연과 펭귄들은 모닥불에 모였어요.", "소연은 펭귄들에게 재미있는 이야기를 들려주었답니다.", "펭귄들은 귀를 쫑긋 세우고 들었어요."],
+        "caption": ["a kid's crayon drawing about a child standing by a campfire with penguins listening to her stories."]
+      },
+      {
+        "index": 5,
+        "content": ["하루가 끝나고, 소연은 펭귄들과 작별 인사를 했어요.", "펭귄들은 소연에게 손을 흔들며 인사했답니다.", "소연은 다시 만날 날을 기다렸어요."],
+        "caption": ["a kid's crayon drawing about a child standing on the shore waving goodbye to penguins."]
+      },
+      {
+        "index": 6,
+        "content": ["소연은 집에 돌아와서 친구들에게 펭귄 이야기를 했어요.", "모두 펭귄들이 얼마나 귀여운지 듣고 싶어 했답니다!", "소연은 행복한 마음으로 잠이 들었어요."],
+        "caption": ["a kid's crayon drawing about a child standing in her bedroom telling stories about penguins to her friends."]
+      }
+    ]
+  }
